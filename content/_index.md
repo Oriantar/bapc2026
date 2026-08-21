@@ -1,6 +1,4 @@
 ---
-title: "BAPC 2026"
-logo: "/logo-white.webp"
 draft: false
 featured_image: '/large.webp'
 ---

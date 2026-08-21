@@ -6,4 +6,4 @@ COPY . .
 
 EXPOSE 8080
 
-CMD ["hugo", "server", "-D", "--bind", "0.0.0.0", "--port", "8080"]
+CMD ["hugo", "server", "-D", "--port", "8080"]

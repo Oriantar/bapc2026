@@ -1,4 +1,5 @@
-baseURL = 'https://example.org/'
+baseURL = ""
+relativeURLs = "True"
 copyright = "De Leidsche Flesch"
 locale = 'en-us'
 title = 'BAPC 2026'
@@ -6,15 +7,25 @@ theme = 'ananke'
 
 [params]
     favicon = "logo-white.webp"
-    site_logo = "logo-black.webp"
+    site_logo = "logo-blanco.webp"
+    mainSections = ['news']
     background_color_class = "bg-red"
 [languages]
   [languages.en]
     name="English"
-    disabled = false
-    weight = 2
+    weight = 8
    [languages.nl]
     name = "Nederlands"
-    weight = 1
+    weight = 8
    [languages.nl.params]
     read_more_copy = "Lees meer!"
+  [[languages.en.menus.main]]
+    name = "Jury Advice ⬀"
+    weight = 6
+    identifier = "GitHub"
+    url = "https://jury.bapc.eu/advice/"
+   [[languages.nl.menus.main]]
+    name = "Jury Advies ⬀"
+    weight = 6
+    identifier = "GitHub"
+    url = "https://jury.bapc.eu/advice/"
