@@ -1,5 +1,0 @@
-baseURL = 'https://example.org/'
-copyright = "De Leidsche Flesch"
-locale = 'en-us'
-title = 'BAPC 2026'
-theme = 'ananke'

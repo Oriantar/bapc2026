@@ -3,3 +3,18 @@ copyright = "De Leidsche Flesch"
 locale = 'en-us'
 title = 'BAPC 2026'
 theme = 'ananke'
+
+[params]
+    favicon = "logo-white.webp"
+    site_logo = "logo-black.webp"
+    background_color_class = "bg-red"
+[languages]
+  [languages.en]
+    name="English"
+    disabled = false
+    weight = 2
+   [languages.nl]
+    name = "Nederlands"
+    weight = 1
+   [languages.nl.params]
+    read_more_copy = "Lees meer!"
