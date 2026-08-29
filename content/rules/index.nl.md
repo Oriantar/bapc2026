@@ -4,8 +4,9 @@ weight: 4
 draft: false
 menu: main
 type: page
-featured_image: '/large.webp'
+featured_image: '/images/pc.webp'
 ---
+###### afbeelding van: [W.I.S.V. 'Christiaan Huygens'](https://photos.ch.tudelft.nl/v2wkas-benelux-algorithm-programming-contest)
 
 De regels voor de regionale ICPC-wedstrijd zijn te vinden op de website van de ICPC Regionals: [officiële regels voor de ICPC Regionals](https://icpc.global/regionals/rules).
 

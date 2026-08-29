@@ -4,9 +4,9 @@ weight: 5
 draft: false
 menu: main
 type: page
-featured_image: '/large.webp'
+featured_image: '/images/gorlaeus.webp'
 ---
-
+###### afbeelding van: [W.I.S.V. 'Christiaan Huygens'](https://photos.ch.tudelft.nl/v2wkas-benelux-algorithm-programming-contest)
 De organisatie kan benaderd worden via de mail op BAPC2026@deleidscheflesch.nl. 
 
 ## BAPC SLACK

@@ -4,9 +4,9 @@ weight: 2
 draft: false
 menu: main
 type: page
-featured_image: '/large.webp'
+featured_image: '/images/background.webp'
 ---
-
+###### afbeelding van: [W.I.S.V. 'Christiaan Huygens'](https://photos.ch.tudelft.nl/v2wkas-benelux-algorithm-programming-contest)
 De Benelux Algorithm Programming Contest (BAPC) is een wedstrijd waarbij teams van universiteiten uit België, Nederland en Luxemburg een reeks algoritmische vraagstukken en puzzels voorgeschoteld krijgen. Het doel van elk team is om binnen de tijd zoveel mogelijk puzzels op te lossen. De oplossingen moeten op een computer worden geprogrammeerd en worden ingediend bij een geautomatiseerd beoordelingssysteem, die de oplossing controleert.
 
 De teams die aan het einde van de wedstrijd de meeste puzzels hebben opgelost, plaatsen zich voor de [Northwestern European Regional Contest](https://2026.nwerc.eu). In deze regionale wedstrijd kunnen teams zich kwalificeren voor deelname aan de [International Collegiate Programming Contest](https://icpc.global) (ook wel bekend als de World Finals) of het [Europe Championship](https://euc.icpc.global).

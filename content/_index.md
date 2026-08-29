@@ -1,7 +1,9 @@
 ---
 draft: false
-featured_image: '/large.webp'
+featured_image: '/images/background.webp'
 ---
+###### image credit to: [W.I.S.V. 'Christiaan Huygens'](https://photos.ch.tudelft.nl/v2wkas-benelux-algorithm-programming-contest)
+
 Welcome to the website of BAPC 2026!
 
 The Benelux Algorithm Programming Contest (BAPC) is a contest for students of the Benelux universities. Students are served a
@@ -11,3 +13,4 @@ participate in the [NWERC 2026](https://2026.nwerc.eu/).
 
 The 2026 edition of the BAPC will be on the 31th of October, 2026.
 The contest is going to be on the campus of Leiden University.
+

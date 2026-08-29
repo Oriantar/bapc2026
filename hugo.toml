@@ -6,8 +6,8 @@ title = 'BAPC 2026'
 theme = 'ananke'
 
 [params]
-    favicon = "logo-white.webp"
-    site_logo = "logo-blanco.webp"
+    favicon = "/images/logo-blanco.webp"
+    site_logo = "/images/logo-blanco.webp"
     mainSections = ['news']
     background_color_class = "bg-red"
 [languages]

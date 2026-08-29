@@ -4,8 +4,9 @@ weight: 2
 draft: false
 menu: main
 type: page
-featured_image: '/large.webp'
+featured_image: '/images/background.webp'
 ---
+###### image credit to: [W.I.S.V. 'Christiaan Huygens'](https://photos.ch.tudelft.nl/v2wkas-benelux-algorithm-programming-contest)
 
 The Benelux Algorithm Programming Contest (BAPC) is a contest in which teams from leading universities in Belgium, the
 Netherlands, and Luxembourg are served a series of algorithmic problems/puzzles. The goal of each team is to solve the

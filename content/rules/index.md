@@ -4,8 +4,9 @@ weight: 4
 draft: false
 menu: main
 type: page
-featured_image: '/large.webp'
+featured_image: '/images/pc.webp'
 ---
+###### image credit to: [W.I.S.V. 'Christiaan Huygens'](https://photos.ch.tudelft.nl/v2wkas-benelux-algorithm-programming-contest)
 
 The ICPC regional contest rules can be found at the ICPC regionals website; [official ICPC regional rules](https://icpc.global/regionals/rules).
 
