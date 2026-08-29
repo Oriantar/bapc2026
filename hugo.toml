@@ -13,10 +13,10 @@ theme = 'ananke'
 [languages]
   [languages.en]
     name="English"
-    weight = 8
+    weight = 1
    [languages.nl]
     name = "Nederlands"
-    weight = 8
+    weight = 2
    [languages.nl.params]
     read_more_copy = "Lees meer!"
   [[languages.en.menus.main]]

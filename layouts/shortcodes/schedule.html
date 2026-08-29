@@ -1,0 +1,74 @@
+    <table>
+        {{ range $hour := (seq 8 17) }}
+            <tr>
+                <th>{{ $hour }}:00</th>
+                {{ $schedule := where $.Site.Pages "Section" "schedule" }}
+                {{ range sort $schedule ".Params.weight" "asc"}}
+                    {{ if eq .Params.Hour $hour }}
+                        {{if eq .Params.Minute 0 }}
+                                <td  colspan="2" rowspan={{.Params.length}} class="{{.Params.color}}">
+                                    {{.Title}}
+                                    <span>{{ .Params.location }}</span>
+                                </td>
+                        {{ end }}
+                    {{ end }}
+                {{ end }}
+            </tr>
+            <tr>
+            <th> {{$hour}}:30</th>
+            {{ range sort $schedule ".Params.weight" "asc"  }}
+                {{ if eq .Params.Hour $hour }}
+                    {{if eq .Params.Minute 30 }}
+                        <td  colspan="2" rowspan={{.Params.length}} class="{{.Params.color}}">
+                            <p>{{.Title}} </p>
+                            <span>{{ .Params.location }}</span>
+                        </td>
+                    {{ end }}
+                {{ end }}
+            {{ end }}
+            </tr>
+        {{end}}
+    </table>
+
+<style>
+table {
+	width: 100%;
+	max-width: 50rem;
+}
+	tr:nth-child(even) th {
+		color: #ccc;
+		font-weight: normal;
+	}
+	th,
+	td {
+		padding: 0.5rem 1rem;
+	}
+	
+	th {
+		font-weight: normal;
+		border-top: thin dotted #ccc;
+	}
+	
+	td {
+		font-size: 0.8rem;
+		font-weight: bold;
+		line-height: 1.4;
+		border-radius: 0.2rem;
+		transition: opacity 0.3s ease;
+        color: white;
+        width: 1000px;
+	}
+
+	td > span {
+		font-size: 0.8em;
+		font-weight: normal;
+		display: block;
+		width: 100%;
+	}
+
+
+.contest {background-color: #ED2024;
+color: #ffffff;}
+.non-contest {background-color: #e44444;
+color: #ffffff;}
+</style>
