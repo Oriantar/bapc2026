@@ -4,7 +4,7 @@ weight: 2
 draft: false
 menu: main
 type: page
-featured_image: '/images/background.webp'
+featured_image: '/images/empty-room.webp'
 ---
 ###### image credit to: [W.I.S.V. 'Christiaan Huygens'](https://photos.ch.tudelft.nl/v2wkas-benelux-algorithm-programming-contest)
 

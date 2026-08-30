@@ -7,7 +7,7 @@ type: page
 featured_image: '/images/gorlaeus.webp'
 ---
 ###### afbeelding van: [Universiteit Leiden](https:://www.universiteitleiden.nl)
-De wedstrijd vindt plaats in het [Gorlaeus-gebouw](https://www.universiteitleiden.nl/locations/gorlaeus-building), [Einsteinweg 55, Leiden](https://www.google.com/maps/dir//Gorlaeus+Laboratorium,+Einsteinweg+55,+2333+CC+Leiden/@52.1671447,4.3770654,12z/data=!4m8!4m7!1m0!1m5!1m1!1s0x47c5c71ec6877197:0xc130947cd39551a9!2m2!1d4.4594654!2d52.1671734?entry=ttu&g_ep=EgoyMDI1MDkwMy4wIKXMDSoASAFQAw%3D%3D).
+De wedstrijd vindt plaats in het [Gorlaeus-gebouw](https://www.universiteitleiden.nl/locaties/gorlaeus-gebouw), [Einsteinweg 55, Leiden](https://www.google.com/maps/dir//Gorlaeus+Laboratorium,+Einsteinweg+55,+2333+CC+Leiden/@52.1671447,4.3770654,12z/data=!4m8!4m7!1m0!1m5!1m1!1s0x47c5c71ec6877197:0xc130947cd39551a9!2m2!1d4.4594654!2d52.1671734?entry=ttu&g_ep=EgoyMDI1MDkwMy4wIKXMDSoASAFQAw%3D%3D).
 
 ## Naar Leiden met de auto
 - Neem op de A44 tussen Oegstgeest en Wassenaar afslag 8 richting Leiden.

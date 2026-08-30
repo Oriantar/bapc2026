@@ -14,6 +14,9 @@
                             {{ if eq $lang "nl" }}
                                 {{ .title_nl }}
                                 <span>{{ .location_nl }}</span>
+                            {{ else if eq $lang "fr" }}
+                                {{ .title_fr }}
+                                <span>{{ .location_fr }}</span>
                             {{ else }}
                                 {{ .title }}
                                 <span>{{ .location }}</span>
@@ -36,6 +39,9 @@
                             {{ if eq $lang "nl" }}
                                 {{ .title_nl }}
                                 <span>{{ .location_nl }}</span>
+                            {{ else if eq $lang "fr" }}
+                                {{ .title_fr }}
+                                <span>{{ .location_fr }}</span>
                             {{ else }}
                                 {{ .title }}
                                 <span>{{ .location }}</span>
