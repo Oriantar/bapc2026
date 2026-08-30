@@ -126,6 +126,7 @@
   length: 2
   location: "Gorlaeus" 
   location_nl: "Gorlaeus"
+  location_fr: "Gorlaeus"
   color: "contest"
   weight: 0
 
@@ -137,5 +138,6 @@
   length: 2
   location: "Gorlaeus" 
   location_nl: "Gorlaeus"
+  location_fr: "Gorlaeus"
   color: "non-contest"
   weight: 0

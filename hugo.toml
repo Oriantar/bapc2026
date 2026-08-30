@@ -25,19 +25,19 @@ theme = 'ananke'
     [languages.fr.params]
   [[languages.en.menus.main]]
     name = "Jury Advice ⬀"
-    weight = 6
+    weight = 10
     identifier = "GitHub"
     url = "https://jury.bapc.eu/advice/"
    [[languages.nl.menus.main]]
     name = "Jury Advies ⬀"
-    weight = 6
+    weight = 10
     identifier = "GitHub"
     url = "https://jury.bapc.eu/advice/"   
     [[languages.fr.menus.main]]
     name = "Conseils aux jurés ⬀"
-    weight = 6
+    weight = 10
     identifier = "GitHub"
     url = "https://jury.bapc.eu/advice/"
     
 [markup.goldmark.renderer]
-  unsafe = true # Allow HTML in md files
+  unsafe = true 
