@@ -17,8 +17,12 @@ theme = 'ananke'
    [languages.nl]
     name = "Nederlands"
     weight = 2
+  [languages.fr]
+    name = "Français"
+    weight = 3
    [languages.nl.params]
     read_more_copy = "Lees meer!"
+    [languages.fr.params]
   [[languages.en.menus.main]]
     name = "Jury Advice ⬀"
     weight = 6
@@ -26,6 +30,11 @@ theme = 'ananke'
     url = "https://jury.bapc.eu/advice/"
    [[languages.nl.menus.main]]
     name = "Jury Advies ⬀"
+    weight = 6
+    identifier = "GitHub"
+    url = "https://jury.bapc.eu/advice/"   
+    [[languages.fr.menus.main]]
+    name = "Conseils aux jurés ⬀"
     weight = 6
     identifier = "GitHub"
     url = "https://jury.bapc.eu/advice/"
