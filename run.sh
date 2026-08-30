@@ -1,3 +1,3 @@
 hugo build
 docker build -t oriantar/bapc2026 .
-docker run -p 8080:8080 oriantar/bapc2026 
+docker run -d --rm -p 8080:80 oriantar/bapc2026:latest 

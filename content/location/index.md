@@ -32,5 +32,3 @@ From this busstop it's a 3 minute walk to the Gorleaus building.
 ##### Bus tickets can be bought in the bus with debit card only, or you can check in using OVpay.
 
 Planning your trip is possible from the website of the [Dutch Railways](https://www.ns.nl/en/travel-information). Train tickets can be bought at the machines at the station, or you can check in using [OVPay](https://www.ovpay.nl/en/how-it-works) using a foreign contactless debit card, a contactless credit card issued by MasterCard/Maestro and VISA/Vpay, or by phone using Google Pay or Apple Pay.
-
-###### image credit to: []()

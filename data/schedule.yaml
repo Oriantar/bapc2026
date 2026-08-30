@@ -1,12 +1,12 @@
 #- title: "Title of event"
-  # title_nl: "Title of event in dutch" 
-  # hour: integer of hour in 24h format
-  # minute: is it 30 or 0 minutes past the hour?
-  # length: integer of length in half hours
-  # location: "location of event" 
-  # location_nl: "location of event in dutch"
-  # color: "non-contest or contest"
-  # weight: integer of order from left to right in the schedule 0 is first, 1 is second, 2 is third, etc.
+# title_nl: "Title of event in dutch" 
+# hour: integer of hour in 24h format
+# minute: is it 30 or 0 minutes past the hour?
+# length: integer of length in half hours
+# location: "location of event" 
+# location_nl: "location of event in dutch"
+# color: "non-contest or contest"
+# weight: integer of order from left to right in the schedule 0 is first, 1 is second, 2 is third, etc.
 
 - title: "Solutions and winners ceremony"
   title_nl: "Oplossingen en prijsuitreiking" 

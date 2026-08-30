@@ -1,9 +1,13 @@
-FROM hugomods/hugo:0.165.0
+FROM hugomods/hugo:0.165.0 AS build
 
 WORKDIR /site
 
 COPY . .
 
-EXPOSE 8080
+RUN hugo
 
-CMD ["hugo", "server", "-D", "--port", "8080"]
+FROM nginx:1.25-alpine
+
+COPY --from=build /site/public /usr/share/nginx/html
+
+EXPOSE 80/tcp

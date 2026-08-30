@@ -1,6 +1,6 @@
 <table>
     {{ $lang := .Page.Language.Lang }}
-    {{ $schedule := site.Data.schedule }}
+    {{ $schedule := hugo.Data.schedule }}
     {{ range $hour := (seq 8 17) }}
         <tr>
             <th>{{ $hour }}:00</th>
