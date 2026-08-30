@@ -1,0 +1,21 @@
+<footer class="bg-white bottom-0 w-100" role="contentinfo">
+    <div class="flex flex-column justify-around pa3 pb5">
+        <div class="flex justify-between w-100 center sponsor flex-wrap">
+            {{range sort hugo.Data.sponsors ".weight" "asc"}}
+                <div class="flex flex-column center">
+                    <a href="{{.url}}" target="_blank">
+                        <img src="/images/sponsors/{{.logo}}" alt="Logo of sponsor {{.sponsor}}" width="130px" style="padding-top: 20px; padding-bottom: 25px;">
+                    </a>
+                    <span style="text-align: center;">{{ .sponsor }}</span>
+                    <span style="text-align: center;">{{ .sponsorTier }}</span>
+            </div>
+            {{end}}
+            </div>
+            </div>
+    <div class="flex justify-between {{ .Site.Params.background_color_class | default "bg-black" }} pa3">
+        <a class="f4 fw4 hover-white no-underline white-70 dn dib-ns pv2 ph3" href="{{ .Site.Home.Permalink }}">
+            &copy; {{ with .Site.Copyright | default .Site.Title }} {{ . | safeHTML }} {{ now.Format "2006"}} {{ end }}
+        </a>
+        <div>{{ partialCached "social/follow.html" . }}</div>
+    </div>
+</footer>
