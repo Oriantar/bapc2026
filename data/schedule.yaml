@@ -1,0 +1,119 @@
+#- title: "Title of event"
+  # title_nl: "Title of event in dutch" 
+  # hour: integer of hour in 24h format
+  # minute: is it 30 or 0 minutes past the hour?
+  # length: integer of length in half hours
+  # location: "location of event" 
+  # location_nl: "location of event in dutch"
+  # color: "non-contest or contest"
+  # weight: integer of order from left to right in the schedule 0 is first, 1 is second, 2 is third, etc.
+
+- title: "Solutions and winners ceremony"
+  title_nl: "Oplossingen en prijsuitreiking" 
+  hour: 16
+  minute: 30
+  length: 2
+  location: "Gorlaeus" 
+  location_nl: "Gorlaeus"
+  color: "non-contest"
+  weight: 0
+
+- title: "Closing time"
+  title_nl: "Sluitingstijd"
+  hour: 17
+  minute: 30
+  length: 1
+  location: "Gorlaeus" 
+  location_nl: "Gorlaeus"
+  color: "non-contest"
+  weight: 0
+
+- title: "Coach meeting"
+  title_nl: "Coach meeting"
+  hour: 13
+  minute: 30
+  length: 2
+  location: "Gorlaeus" 
+  location_nl: "Gorlaeus"
+  color: "non-contest"
+  weight: 1
+
+- title: "Company Market"
+  title_nl: "Bedrijvenmarkt"
+  hour: 10
+  minute: 0
+  length: 2
+  location: "Gorlaeus" 
+  location_nl: "Gorlaeus"
+  color: "non-contest"
+  weight: 1
+
+- title: "Contest"
+  title_nl: "Wedstrijd"
+  hour: 11
+  minute: 30
+  length: 10
+  location: "Gorlaeus" 
+  location_nl: "Gorlaeus"
+  color: "contest"
+  weight: 0
+
+- title: "Last remarks"
+  title_nl: "Laatste opmerkingen"
+  hour: 11
+  minute: 0
+  length: 1
+  location: "Gorlaeus" 
+  location_nl: "Gorlaeus"
+  color: "non-contest"
+  weight: 0
+
+- title: "Lunch"
+  title_nl: "Lunch"
+  hour: 12
+  minute: 0
+  length: 2
+  location: "Gorlaeus" 
+  location_nl: "Gorlaeus"
+  color: "non-contest"
+  weight: 0
+
+- title: "Openings ceremony"
+  title_nl: "Opening ceremony"
+  hour: 9
+  minute: 0
+  length: 1
+  location: "Gorlaeus"
+  location_nl: "Gorlaeus"
+  color: "non-contest"
+  weight: 0
+
+- title: "Registration"
+  title_nl: "Registratie"
+  hour: 8
+  minute: 0
+  length: 2
+  location: "Gorlaeus" 
+  location_nl: "Gorlaeus"
+  color: "non-contest"
+  weight: 1
+
+- title: "Test session"
+  title_nl: "Test sessie"
+  hour: 9
+  minute: 30
+  length: 2
+  location: "Gorlaeus" 
+  location_nl: "Gorlaeus"
+  color: "contest"
+  weight: 0
+
+- title: "Walk In"
+  title_nl: "Inloop"
+  hour: 8
+  minute: 0
+  length: 2
+  location: "Gorlaeus" 
+  location_nl: "Gorlaeus"
+  color: "non-contest"
+  weight: 0

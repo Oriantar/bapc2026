@@ -1,12 +1,10 @@
-<!doctype html>
-<html>
-<head>
- <meta charset="utf-8">
- <title> BAPC 2026 - {{ .Page.Title }}</title>
-</head>
-
-<body>
- {{ block "main" . }}
- {{ end }}
-</body>
-</html>
+{{ define "main" }}
+  <h1>{{ .Title }}</h1>
+  {{ .Content }}
+  {{ range .Site.RegularPages }}
+    <article>
+      <h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
+      {{ .Summary }}
+    </article>
+  {{ end }}
+{{ end }}
