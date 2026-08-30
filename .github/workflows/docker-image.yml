@@ -11,6 +11,7 @@ jobs:
       -
         name: Login 
         uses: docker/login-action@v4
+        if: ${{ vars.DOCKERHUB_USERNAME != '' && secrets.DOCKERHUB_TOKEN != '' }}
         with:
           username: ${{ vars.DOCKERHUB_USERNAME }}
           password: ${{ secrets.DOCKERHUB_TOKEN }}
@@ -24,5 +25,5 @@ jobs:
         name: Build and push
         uses: docker/build-push-action@v7
         with:
-          push: true
+          push: ${{ vars.DOCKERHUB_USERNAME != '' && secrets.DOCKERHUB_TOKEN != '' }}
           tags: user/app:latest
