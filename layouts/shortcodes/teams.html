@@ -1,0 +1,56 @@
+ {{ $teams := hugo.Data.teams }}
+        {{ range $team := $teams }}
+            {{if eq .institute true}}
+                <div class="team">
+                    <img src="/images/teams/{{ $team.image }}" alt="{{ $team.name }} " class="institute">
+                    <div style="margin-top: 1rem; display: flex; flex-direction: column; justify-content: center;">
+                    <p class="text">{{ $team.name }} ({{ $team.country }})</p>
+                    <ul>
+                        {{ range $member := $team.teams }}
+                            <li>{{ $member }}</li>
+                        {{ end }}
+                    </ul>
+                    </div>
+                </div>
+            {{end}}
+    {{ end }}
+    <h5>Company teams:</h5>
+    {{ range $team := $teams }}
+            {{if eq $team.institute false}}
+                <div class="team">
+                    <img src="/images/teams/{{ $team.image }}" alt="{{ $team.name }} " class="company">
+                    <div style="margin-top: 2rem; display: flex; flex-direction: column; justify-content: center;">
+                    <ul>
+                        {{ range $member := $team.teams }}
+                            <li>{{ $member }}</li>
+                        {{ end }}
+                    </ul>
+                    </div>
+                </div>
+            {{end}}
+    {{ end }}
+
+    <style>
+        .team {
+            margin-bottom: 3rem;
+            display: flex;
+            flex-wrap: wrap;
+            gap: 2rem;
+            max-width: fit-content;
+            align-items: start;
+        }
+        .institute {
+            width: 10rem;
+            height: 100%;
+            border-radius: 50%;
+        }
+        .company{
+            width: 10rem;
+            height: 100%;
+            border-radius: 5%;
+        }
+        .text {
+            text-align: center;
+            margin: 0;
+        }
+    </style>

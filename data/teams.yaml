@@ -1,0 +1,14 @@
+- name: "Hogeschool Leiden"
+  country: "NLD"
+  teams: ["HBO Noobs (4)"]
+  image: "hogeschool-leiden.jpeg"
+  institute: true
+- name: "Leiden University"
+  country: "NLD"
+  teams: ["Offline (12)", "Control-Alt-Succeed (29)", "ChiLi code Bjarne (42)", "Plopkoek (52)"]
+  image: "Leiden-University.png"
+  institute: true
+- name: "ING"
+  teams: [ "ING 1 (20)", "ING 2 (21)"]
+  image: "ing_logo.jpg"
+  institute: false
