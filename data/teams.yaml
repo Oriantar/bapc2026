@@ -12,7 +12,7 @@
 - name: "KU Leuven"
   country: "BEL"
   teams: []
-  image: "KU-Leuven.png"
+  image: "KU-leuven.png"
   institute: true
 - name: "Maastricht University"
   country: "NLD"
@@ -57,7 +57,7 @@
 - name: "Université de Mons"
   country: "BEL"
   teams: []
-  image: "Université-de-Mons.png"
+  image: "Universite-de-mons.png"
   institute: true
 - name: "Universiteit van Amsterdam"
   country: "NLD"
@@ -81,3 +81,8 @@
   institute: true
 
   # company teams
+- name: "CWI"
+  country: "NLD"
+  teams: []
+  image: "CWI.png"
+  institute: false

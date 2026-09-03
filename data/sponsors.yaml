@@ -6,11 +6,11 @@
 
 - sponsor: "Jetbrains"
   url: "https://www.jetbrains.com/"
-  logo: "jetbrains.svg"
+  logo: "Jetbrains.svg"
   sponsorTier: "Platinum"
   weight: 0
 - sponsor: "IMC"
   url: "https://www.imc.com/"
-  logo: "imc.webp"
+  logo: "Imc.webp"
   sponsorTier: "Gold"
   weight: 1
