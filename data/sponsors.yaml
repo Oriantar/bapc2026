@@ -1,7 +1,16 @@
-- sponsor: "De Leidsche Flesch"
-  url: "https://www.deleidscheflesch.nl/"
-  logo: "header-badge.svg"
-  sponsorTier: "Test Sponsor"
+# - sponsor: "De Leidsche Flesch"
+#   url: "https://www.deleidscheflesch.nl/"
+#   logo: "header-badge.svg"
+#   sponsorTier: "Test Sponsor"
+#   weight: 0
+
+- sponsor: "Jetbrains"
+  url: "https://www.jetbrains.com/"
+  logo: "jetbrains.svg"
+  sponsorTier: "Platinum"
   weight: 0
-
-
+- sponsor: "IMC"
+  url: "https://www.imc.com/"
+  logo: "imc.webp"
+  sponsorTier: "Gold"
+  weight: 1

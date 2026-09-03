@@ -4,10 +4,10 @@
             {{range sort hugo.Data.sponsors ".weight" "asc"}}
                 <div class="flex flex-column center">
                     <a href="{{.url}}" target="_blank">
-                        <img src="/images/sponsors/{{.logo}}" alt="Logo of sponsor {{.sponsor}}" width="130px" style="padding-top: 20px; padding-bottom: 25px;">
+                        <img src="/images/sponsors/{{.logo}}" alt="Logo of sponsor {{.sponsor}}" height="80px" style="padding-top: 20px; padding-bottom: 25px;">
                     </a>
                     <span style="text-align: center;">{{ .sponsor }}</span>
-                    <span style="text-align: center;">{{ .sponsorTier }}</span>
+                    <span style="text-align: center;">{{ .sponsorTier }} sponsor</span>
             </div>
             {{end}}
             </div>
