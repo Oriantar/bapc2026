@@ -43,7 +43,7 @@
   location: "Gorlaeus" 
   location_nl: "Gorlaeus"
   location_fr: "Gorlaeus"
-  color: "non-contest"
+  color: "coaches"
   weight: 1
 
 - title: "Company Market"
