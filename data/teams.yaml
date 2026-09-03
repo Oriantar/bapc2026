@@ -1,0 +1,83 @@
+# institutes
+- name: "Leiden University"
+  country: "NLD"
+  teams: []
+  image: "Leiden-University.png"
+  institute: true
+- name: "Hogeschool Leiden"
+  country: "NLD"
+  teams: []
+  image: "hogeschool-leiden.jpeg"
+  institute: true
+- name: "KU Leuven"
+  country: "BEL"
+  teams: []
+  image: "KU-Leuven.png"
+  institute: true
+- name: "Maastricht University"
+  country: "NLD"
+  teams: []
+  image: "Universiteit-Maastricht.png"
+  institute: true
+- name: "Radboud University"
+  country: "NLD"
+  teams: []
+  image: "Radboud-Universiteit.png"
+  institute: true
+- name: "Rijksuniversiteit Groningen"
+  country: "NLD"
+  teams: []
+  image: "Groningen-Universiteit.png"
+  institute: true
+- name: "Technische Universiteit Delft"
+  country: "NLD"
+  teams: []
+  image: "TU-Delft.png"
+  institute: true
+- name: "Technische Universiteit Eindhoven"
+  country: "NLD"
+  teams: []
+  image: "TU-Eindhoven.png"
+  institute: true
+- name: "Technische Universiteit Twente"
+  country: "NLD"
+  teams: []
+  image: "Universiteit-Twente.png"
+  institute: true
+- name: "Tilburg University"
+  country: "NLD"
+  teams: []
+  image: "Universiteit-Tilburg.png"
+  institute: true
+- name: "UCLouvain"
+  country: "BEL"
+  teams: []
+  image: "UCLouvain.png"
+  institute: true
+- name: "Université de Mons"
+  country: "BEL"
+  teams: []
+  image: "Université-de-Mons.png"
+  institute: true
+- name: "Universiteit van Amsterdam"
+  country: "NLD"
+  teams: []
+  image: "universiteit-van-amsterdam.png"
+  institute: true
+- name: "University of Luxembourg"
+  country: "LUX"
+  teams: []
+  image: "Universiteit-Luxemburg.png"
+  institute: true
+- name: "Universiteit Utrecht"
+  country: "NLD"
+  teams: []
+  image: "Universiteit-Utrecht.png"
+  institute: true
+- name: "Vrije Universiteit"
+  country: "NLD"
+  teams: []
+  image: "Vrije-Universiteit.png"
+  institute: true
+
+  # company teams
