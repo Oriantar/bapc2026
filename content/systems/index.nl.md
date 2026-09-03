@@ -6,6 +6,7 @@ menu: main
 type: page
 featured_image: '/images/background.webp'
 ---
+###### afbeelding van: [W.I.S.V. 'Christiaan Huygens'](https://photos.ch.tudelft.nl/v2wkas-benelux-algorithm-programming-contest)
 Deze pagina beschrijft de huidige plannen voor de programmeeromgeving die beschikbaar zal zijn voor elk BAPC 2026-team.
 
 Laatste update: 30 augustus 2026

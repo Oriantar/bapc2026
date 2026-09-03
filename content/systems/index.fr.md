@@ -6,6 +6,7 @@ menu: main
 type: page
 featured_image: '/images/background.webp'
 ---
+###### image de : [W.I.S.V. 'Christiaan Huygens'](https://photos.ch.tudelft.nl/v2wkas-benelux-algorithm-programming-contest)
 Cette page décrit les plans actuels concernant l'environnement de programmation qui sera mis à la disposition de chaque équipe du BAPC 2026.
 
 Dernière mise à jour : 30 août 2026
