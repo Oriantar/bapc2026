@@ -12,3 +12,20 @@ Le Benelux Algorithm Programming Contest (BAPC) est une compétition destinée a
 La 2026e édition du BAPC aura lieu le 31 octobre 2026.
 
 La compétition se déroulera sur le campus de l'Université de Leyde.
+
+{{% row %}} 
+
+{{% column %}}
+<!-- add contest things -->
+{{% /column %}} 
+
+{{% column %}}
+## Matériel préliminaire
+- Tableau des scores fusionné (pas encore disponible)
+- <a href="/files/prelims-problem-set.pdf" download>Énoncé des problèmes (PDF)</a>
+- <a href="/files/prelims-solutions.pdf" download>Diapositives de solutions (PDF)</a>
+- <a href="/files/zip/prelims.zip" download>Problèmes regroupés (ZIP, 198.8MB)</a>
+
+{{% /column %}}
+
+{{% /row %}}

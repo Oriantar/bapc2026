@@ -14,3 +14,18 @@ participate in the [NWERC 2026](https://2026.nwerc.eu/).
 The 2026 edition of the BAPC will be on the 31th of October, 2026.
 The contest is going to be on the campus of Leiden University.
 
+{{% row %}} 
+
+{{% column %}}
+<!-- add contest things -->
+{{% /column %}} 
+
+{{% column %}}
+## Preliminaries material
+- Merged Scoreboard (not available yet)
+- <a href="/files/prelims-problem-set.pdf" download>Problem Set (pdf)</a>
+- <a href="/files/prelims-solutions.pdf" download>Solution Slides (pdf)</a>
+- <a href="/files/zip/prelims.zip" download>Packaged Problems (zip, 198.8MB)</a>
+{{% /column %}}
+
+{{% /row %}}

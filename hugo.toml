@@ -10,6 +10,8 @@ theme = 'ananke'
     site_logo = "/images/logo-blanco.webp"
     mainSections = ['news']
     background_color_class = "bg-red"
+[watch]
+  excludePattern = "/files/zip/.*"
 [languages]
   [languages.en]
     name="English"
