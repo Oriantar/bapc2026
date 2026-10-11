@@ -1,82 +1,82 @@
 # institutes
 - name: "Leiden University"
   country: "NLD"
-  teams: []
+  teams: ['Boys, Algorithms, Puns and Coding', 'Ctrl+Alt+Succeed', 'Offline']
   image: "Leiden-University.png"
-  institute: true
-- name: "Hogeschool Leiden"
-  country: "NLD"
-  teams: []
-  image: "hogeschool-leiden.jpeg"
   institute: true
 - name: "KU Leuven"
   country: "BEL"
-  teams: []
+  teams: ['BrokenWingsOfDutre', '#include<KUL>', 'TheClankers:Rebirth']
   image: "KU-leuven.png"
   institute: true
 - name: "Maastricht University"
   country: "NLD"
-  teams: []
+  teams: ['bella UMbrella']
   image: "Universiteit-Maastricht.png"
   institute: true
 - name: "Radboud University"
   country: "NLD"
-  teams: []
+  teams: ['def func: one last pass', 'Error 404', 'Masha And The Bear', 'Vibe coders']
   image: "Radboud-Universiteit.png"
   institute: true
 - name: "Rijksuniversiteit Groningen"
   country: "NLD"
-  teams: []
+  teams: ['Brain Limit Exceeded', 'Kernel Panic', 'Kernel Panic', 'The Holy Trinity', 'Triply Linked List']
   image: "Groningen-Universiteit.png"
+  institute: true
+- name: "Saxion University of Applied Sciences"
+  country: "NLD"
+  teams: ['Yuri Luavers', 'Za3boula']
+  image: "Saxion.jpeg"
   institute: true
 - name: "Technische Universiteit Delft"
   country: "NLD"
-  teams: []
+  teams: ['abacaba', 'Bijlmer enjoyers', 'Quadruple Questers',  'Triple R', 'WWW']
   image: "TU-Delft.png"
   institute: true
 - name: "Technische Universiteit Eindhoven"
   country: "NLD"
-  teams: []
+  teams: ['Berg van Abstractie', 'DRRV2', 'e^xplO(r)ers', 'FC Puddlebee', 'Podcasta']
   image: "TU-Eindhoven.png"
   institute: true
 - name: "Technische Universiteit Twente"
   country: "NLD"
-  teams: []
+  teams: ['<=>', '(() => {})();', 'NoTeam', "N'th time's the Charm"]
   image: "Universiteit-Twente.png"
   institute: true
 - name: "Tilburg University"
   country: "NLD"
-  teams: []
+  teams: ["Injection'); DROP TABLE teams; --", 'Jointly Sufficient' ]
   image: "Universiteit-Tilburg.png"
   institute: true
-- name: "UCLouvain"
+- name: "Université Catholique de Louvain"
   country: "BEL"
-  teams: []
+  teams: ['Binary Church']
   image: "UCLouvain.png"
   institute: true
 - name: "Université de Mons"
   country: "BEL"
-  teams: []
+  teams: ['ERROR 404: team name not found', 'Les fous du clavier', 'Planktenne']
   image: "Universite-de-mons.png"
   institute: true
 - name: "Universiteit van Amsterdam"
   country: "NLD"
-  teams: []
+  teams: ['Breaking the Sorting Barrier	', 'Heerlie de Programmeerlie	', 'Monad Maniacs', 'Stelling van Teleur']
   image: "universiteit-van-amsterdam.png"
   institute: true
 - name: "University of Luxembourg"
   country: "LUX"
-  teams: []
+  teams: ['Dacia_Dust3r', 'need bACKup', 'Unemployable']
   image: "Universiteit-Luxemburg.png"
   institute: true
 - name: "Universiteit Utrecht"
   country: "NLD"
-  teams: []
+  teams: ['Autocomplete', 'Error 010', 'Proven Concept', 'SpaCatti Code “(^._.^)/	']
   image: "Universiteit-Utrecht.png"
   institute: true
 - name: "Vrije Universiteit"
   country: "NLD"
-  teams: []
+  teams: ['RiskItAll', "T-shirts?!"]
   image: "Vrije-Universiteit.png"
   institute: true
 
