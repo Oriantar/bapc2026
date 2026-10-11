@@ -21,7 +21,7 @@ La compétition se déroulera sur le campus de l'Université de Leyde.
 
 {{% column %}}
 ## Matériel préliminaire
-- Tableau des scores fusionné (pas encore disponible)
+- [Tableau des scores fusionné](/scoreboard.html)
 - <a href="/files/prelims-problem-set.pdf" download>Énoncé des problèmes (PDF)</a>
 - <a href="/files/prelims-solutions.pdf" download>Diapositives de solutions (PDF)</a>
 - <a href="/files/zip/prelims.zip" download>Problèmes regroupés (ZIP, 198.8MB)</a>
