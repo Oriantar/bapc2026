@@ -81,8 +81,18 @@
   institute: true
 
   # company teams
+- name: "Booking.com"
+  country: "NLD"
+  teams: ['Booking.com 1', 'Booking.com 2']
+  image: "booking.com.png"
+  institute: false
 - name: "CWI"
   country: "NLD"
-  teams: []
+  teams: ['CWI 1']
   image: "CWI.png"
+  institute: false
+- name: "Ortec"
+  country: "NLD"
+  teams: ['Ortec 1']
+  image: "Ortec.jpeg"
   institute: false
