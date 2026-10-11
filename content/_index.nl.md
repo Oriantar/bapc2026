@@ -18,10 +18,10 @@ De wedstrijd wordt gehouden op de campus van Universiteit Leiden.
 
 {{% column %}}
 ## Voorronde materialen
-- [Gezamenlijk Scorebord](/scoreboard.html)
-- <a href="/files/prelims-problem-set.pdf" download>Problemen (pdf)</a>
-- <a href="/files/prelims-solutions.pdf" download>Oplossing Slides (pdf)</a>
-- <a href="/files/zip/prelims.zip" download>Verpakte Problemen (zip, 198.8MB)</a>
+- [Gezamenlijk Scorebord](/prelims/scoreboard)
+- <a href="/prelims/prelims-problem-set.pdf" download>Problemen (pdf)</a>
+- <a href="/prelims/prelims-solutions.pdf" download>Oplossing Slides (pdf)</a>
+- <a href="/prelims/prelims.zip" download>Verpakte Problemen (zip, 198.8MB)</a>
 {{% /column %}}
 
 {{% /row %}}

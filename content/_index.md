@@ -22,10 +22,10 @@ The contest is going to be on the campus of Leiden University.
 
 {{% column %}}
 ## Preliminaries material
-- [Merged Scoreboard](/scoreboard.html)
-- <a href="/files/prelims-problem-set.pdf" download>Problem Set (pdf)</a>
-- <a href="/files/prelims-solutions.pdf" download>Solution Slides (pdf)</a>
-- <a href="/files/zip/prelims.zip" download>Packaged Problems (zip, 198.8MB)</a>
+- [Merged Scoreboard](/prelims/scoreboard)
+- <a href="/prelims/prelims-problem-set.pdf" download>Problem Set (pdf)</a>
+- <a href="/prelims/prelims-solutions.pdf" download>Solution Slides (pdf)</a>
+- <a href="/prelims/prelims.zip" download>Packaged Problems (zip, 198.8MB)</a>
 {{% /column %}}
 
 {{% /row %}}
