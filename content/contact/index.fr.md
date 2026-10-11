@@ -7,7 +7,7 @@ type: page
 featured_image: '/images/leiden.webp'
 ---
 
-L'organisation peut être contactée à l'adresse BAPC2026@deleidscheflesch.nl.
+L'organisation peut être contactée à l'adresse [bapccie@deleidscheflesch.nl](mailto:bapccie@deleidscheflesch.nl).
 
 ## BAPC SLACK
 

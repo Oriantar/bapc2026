@@ -7,7 +7,7 @@ type: page
 featured_image: '/images/leiden.webp'
 ---
 
-The organization can be contacted at BAPC2026@deleidscheflesch.nl. 
+The organization can be contacted at [bapccie@deleidscheflesch.nl](mailto:bapccie@deleidscheflesch.nl). 
 
 ## BAPC SLACK
 There is a BAPC Slack team. Coaches are invited to join [here](https://join.slack.com/t/benelux-nwerc/shared_invite/zt-1b0k82fhd-ohLOpFhX1hnF7k5dlIgreg) for quick access to the organization for questions.
