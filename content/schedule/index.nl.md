@@ -10,4 +10,5 @@ featured_image: '/images/background.webp'
 
 _Laatste Wijzigingen: 30-08-2026_
 
+**_31 oktober 2026:_**
 {{< schedule >}}

@@ -10,4 +10,5 @@ featured_image: "/images/background.webp"
 
 _Last changes: 30-08-2026_
 
+**_31th of October, 2026:_**
 {{< schedule >}}
