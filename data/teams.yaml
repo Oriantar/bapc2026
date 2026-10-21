@@ -21,7 +21,7 @@
   institute: true
 - name: "Rijksuniversiteit Groningen"
   country: "NLD"
-  teams: ['Brain Limit Exceeded', 'Kernel Panic', 'Kernel Panic', 'The Holy Trinity', 'Triply Linked List']
+  teams: ['Brain Limit Exceeded', 'Kernel Panic', 'Partial Derivative', 'The Holy Trinity', 'Triply Linked List']
   image: "Groningen-Universiteit.png"
   institute: true
 - name: "Saxion University of Applied Sciences"
