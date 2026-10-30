@@ -1,98 +1,103 @@
 # institutes
 - name: "Leiden University"
   country: "NLD"
-  teams: ['Boys, Algorithms, Puns and Coding', 'Ctrl+Alt+Succeed', 'Offline']
+  teams: ['Boys, Algorithms, Puns and Coding (6)', 'Ctrl+Alt+Succeed (16)', 'Offline (37)']
   image: "Leiden-University.png"
   institute: true
 - name: "KU Leuven"
   country: "BEL"
-  teams: ['BrokenWingsOfDutre', '#include<KUL>', 'TheClankers:Rebirth']
+  teams: ['BrokenWingsOfDutre (49)', '#include<KUL> (18)', 'TheClankers:Rebirth (11)']
   image: "KU-leuven.png"
   institute: true
 - name: "Maastricht University"
   country: "NLD"
-  teams: ['bella UMbrella']
+  teams: ['bella UMbrella (42)']
   image: "Universiteit-Maastricht.png"
   institute: true
 - name: "Radboud University"
   country: "NLD"
-  teams: ['def func: one last pass', 'Error 404', 'Masha And The Bear', 'Vibe coders']
+  teams: ['def func: one last pass (21)', 'Error 404 (9)', 'Masha And The Bear (54)', 'Vibe coders (39)']
   image: "Radboud-Universiteit.png"
   institute: true
 - name: "Rijksuniversiteit Groningen"
   country: "NLD"
-  teams: ['Brain Limit Exceeded', 'Kernel Panic', 'Partial Derivative', 'The Holy Trinity', 'Triply Linked List']
+  teams: ['Brain Limit Exceeded (36)', 'Kernel Panic (25)', 'The Holy Trinity (48)', 'Triply Linked List (50)']
   image: "Groningen-Universiteit.png"
   institute: true
 - name: "Saxion University of Applied Sciences"
   country: "NLD"
-  teams: ['Yuri Luavers', 'Za3boula']
+  teams: ['Yuri Luavers (56)', 'Za3boula (44)']
   image: "Saxion.jpeg"
   institute: true
 - name: "Technische Universiteit Delft"
   country: "NLD"
-  teams: ['abacaba', 'Bijlmer enjoyers', 'Quadruple Questers',  'Triple R', 'WWW']
+  teams: ['abacaba (17)', 'Bijlmer enjoyers (24)', 'Quadruple Questers (12)',  'Triple R (38)', 'WWW (53)']
   image: "TU-Delft.png"
   institute: true
 - name: "Technische Universiteit Eindhoven"
   country: "NLD"
-  teams: ['Berg van Abstractie', 'DRRV2', 'e^xplO(r)ers', 'FC Puddlebee', 'Podcasta']
+  teams: ['Berg van Abstractie (51)', 'DRRV2 (28)', 'e^xplO(r)ers (2)', 'FC Puddlebee (13)', 'Podcasta (40)']
   image: "TU-Eindhoven.png"
   institute: true
 - name: "Technische Universiteit Twente"
   country: "NLD"
-  teams: ['<=>', '(() => {})();', 'NoTeam', "N'th time's the Charm"]
+  teams: ['<=> (19)', '(() => {})(); (3)', 'NoTeam (45)', "N'th time's the Charm (33)"]
   image: "Universiteit-Twente.png"
   institute: true
 - name: "Tilburg University"
   country: "NLD"
-  teams: ["Injection'); DROP TABLE teams; --", 'Jointly Sufficient' ]
+  teams: ["Injection'); DROP TABLE teams; -- (10)", 'Jointly Sufficient (46)' ]
   image: "Universiteit-Tilburg.png"
   institute: true
 - name: "Université Catholique de Louvain"
   country: "BEL"
-  teams: ['Binary Church']
+  teams: ['Binary Church (29)']
   image: "UCLouvain.png"
   institute: true
 - name: "Université de Mons"
   country: "BEL"
-  teams: ['ERROR 404: team name not found', 'Les fous du clavier', 'Planktenne']
+  teams: ['ERROR 404: team name not found (4)', 'Les fous du clavier (55)', 'Planktenne (23)']
   image: "Universite-de-mons.png"
   institute: true
 - name: "Universiteit van Amsterdam"
   country: "NLD"
-  teams: ['Breaking the Sorting Barrier	', 'Heerlie de Programmeerlie	', 'Monad Maniacs', 'Stelling van Teleur']
+  teams: ['Breaking the Sorting Barrier	(7)', 'Heerlie de Programmeerlie	(41)', 'Monad Maniacs (22)', 'Stelling van Teleur (32)']
   image: "universiteit-van-amsterdam.png"
   institute: true
 - name: "University of Luxembourg"
   country: "LUX"
-  teams: ['Dacia_Dust3r', 'need bACKup', 'Unemployable']
+  teams: ['Dacia_Dust3r (43)', 'need bACKup (30)', 'Unemployable (14)']
   image: "Universiteit-Luxemburg.png"
   institute: true
 - name: "Universiteit Utrecht"
   country: "NLD"
-  teams: ['Autocomplete', 'Error 010', 'Proven Concept', 'SpaCatti Code “(^._.^)/	']
+  teams: ['Autocomplete (20)', 'Error 010 (31)', 'Proven Concept (1)', 'SpaCatti Code “(^._.^)/ (52)']
   image: "Universiteit-Utrecht.png"
   institute: true
 - name: "Vrije Universiteit"
   country: "NLD"
-  teams: ['RiskItAll', "T-shirts?!"]
+  teams: ['RiskItAll (5)', "T-shirts?! (15)"]
   image: "Vrije-Universiteit.png"
   institute: true
 
   # company teams
 - name: "Booking.com"
   country: "NLD"
-  teams: ['Booking.com 1', 'Booking.com 2']
+  teams: ['Booking.com 1 (26)', 'Booking.com 2 (35)']
   image: "booking.com.png"
   institute: false
 - name: "CWI"
   country: "NLD"
-  teams: ['CWI 1']
+  teams: ['CWI 1 (34)']
   image: "CWI.png"
   institute: false
 - name: "Ortec"
   country: "NLD"
-  teams: ['Ortec 1']
+  teams: ['Ortec 1 (27)']
   image: "Ortec.jpeg"
+  institute: false
+- name: "Vortec"
+  country: "NLD"
+  teams: ['Vortech 1 (47)']
+  image: "Vortech.png"
   institute: false
