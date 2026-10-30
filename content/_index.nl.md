@@ -10,6 +10,12 @@ De Benelux Algortime Programmeer Wedstrijd (BAPC) is een wedstrijd voor studente
 De 2026ste editie van de BAPC zal worden gehouden op **31 oktober 2026**. 
 De wedstrijd wordt gehouden op de campus van Universiteit Leiden. 
 
+### Team indeling:
+- Teams 1 to 12 zitten in C09
+- Teams 13 to 25  zitten in C13
+- Teams 26 to 40 zitten in  C17
+- Teams 41 to 57 zitten in  C21
+
 {{% row %}} 
 
 {{% column %}}

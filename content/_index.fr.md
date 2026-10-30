@@ -12,6 +12,12 @@ Le Benelux Algorithm Programming Contest (BAPC) est une compétition destinée a
 La 2026e édition du BAPC aura lieu le **31 octobre 2026**.
 
 La compétition se déroulera sur le campus de l'Université de Leyde.
+ 
+ ### Répartition des équipes
+- Les équipes 1 à 12 seront installées en C09.
+- Les équipes 13 à 25 seront installées en C13.
+- Les équipes 26 à 40 seront installées en C17.
+- Les équipes 41 à 57 seront installées en C21
 
 {{% row %}} 
 

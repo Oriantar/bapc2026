@@ -14,6 +14,13 @@ participate in the [NWERC 2026](https://2026.nwerc.eu/).
 The 2026 edition of the BAPC will be on the **31th of October, 2026**.
 The contest is going to be on the campus of Leiden University.
 
+### Team division:
+- Teams 1 to 12 will be seated in C09
+- Teams 13 to 25 will be seated in C13
+- Teams 26 to 40 will be seated in C17
+- Teams 41 to 57 will be seated in C21
+
+### Teams:
 {{% row %}} 
 
 {{% column %}}
@@ -21,6 +28,8 @@ The contest is going to be on the campus of Leiden University.
 {{% /column %}} 
 
 {{% column %}}
+
+
 ## Preliminaries material
 - [Merged Scoreboard](/prelims/scoreboard)
 - <a href="/prelims/prelims-problem-set.pdf" download>Problem Set (pdf)</a>
