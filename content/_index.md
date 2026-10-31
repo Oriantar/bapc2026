@@ -20,7 +20,6 @@ The contest is going to be on the campus of Leiden University.
 - Teams 26 to 40 will be seated in C17
 - Teams 41 to 57 will be seated in C21
 
-### Teams:
 {{% row %}} 
 
 {{% column %}}
